@@ -31,7 +31,7 @@ extension Endpoint {
     
     var headers: [String: Any] {
         return [
-            "key": "cab9a8950426447c8ae150442221203",
+            "key": "your-private-api-key",
             "Content-Type": "application/json"
         ]
     }
