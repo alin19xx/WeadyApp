@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0EE48F05-3E22-465A-87C5-C32D807E5B0B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A20C00A-38E6-405A-8F33-19127C5F5DBD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeadyApp/Presentation/Main/View/MainView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "content(isEditing:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2BC0A798-3A33-4807-9DB0-24A98A14ECEE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeadyAppTests/Domain/CurrentWeatherUseCase+Test.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "testCharactersComicListUseCaseSuccess()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2BC0A798-3A33-4807-9DB0-24A98A14ECEE - e7bdf66c3db8e96c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in WeadyAppTests.CurrentWeatherUseCase_Test.testCharactersComicListUseCaseSuccess() -&gt; ()"
+                  moduleName = "WeadyAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alin/Documents/WeadyApp/WeadyAppTests/Domain/CurrentWeatherUseCase+Test.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "2BC0A798-3A33-4807-9DB0-24A98A14ECEE - e7bdf66c3db8e96c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in WeadyAppTests.CurrentWeatherUseCase_Test.testCharactersComicListUseCaseSuccess() -&gt; ()"
+                  moduleName = "WeadyAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alin/Documents/WeadyApp/WeadyAppTests/Domain/CurrentWeatherUseCase+Test.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4475BD7B-318F-44FE-8056-D4F44663062D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeadyAppTests/Domain/CurrentWeatherUseCase+Test.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "testCharactersComicListUseCaseSuccess()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4475BD7B-318F-44FE-8056-D4F44663062D - 9a8c84101eee0019"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (WeadyApp.WeatherEntity) -&gt; () in WeadyAppTests.CurrentWeatherUseCase_Test.testCharactersComicListUseCaseSuccess() -&gt; ()"
+                  moduleName = "WeadyAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alin/Documents/WeadyApp/WeadyAppTests/Domain/CurrentWeatherUseCase+Test.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "4475BD7B-318F-44FE-8056-D4F44663062D - 9a8c84101eee0019"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (WeadyApp.WeatherEntity) -&gt; () in WeadyAppTests.CurrentWeatherUseCase_Test.testCharactersComicListUseCaseSuccess() -&gt; ()"
+                  moduleName = "WeadyAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alin/Documents/WeadyApp/WeadyAppTests/Domain/CurrentWeatherUseCase+Test.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
